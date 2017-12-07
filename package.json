@@ -1,0 +1,22 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "For LAb 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dothis4fun/lab3Repo.git"
+  },
+  "author": "Schreder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dothis4fun/lab3Repo/issues"
+  },
+  "homepage": "https://github.com/dothis4fun/lab3Repo#readme",
+  "devDependencies": {
+    "@angular/cli": "^1.6.0"
+  }
+}
